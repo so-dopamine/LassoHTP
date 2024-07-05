@@ -1,8 +1,0 @@
-# Requirements
-## External Program
-- AmberTool/Amber
-## Python Packages
-- python >= 3.6
-- numpy
-- pdb2pqr
-- openbabel
